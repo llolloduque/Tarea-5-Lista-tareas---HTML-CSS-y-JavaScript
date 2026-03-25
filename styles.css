@@ -8,11 +8,10 @@ body{
 }
 
 .container{
-  background:white;
+  background:rgb(17, 129, 185);
   padding:20px;
   border-radius:10px;
   width:300px;
-  box-shadow:0 4px 10px rgba(0,0,0,0.1);
 }
 
 h2{
@@ -44,7 +43,7 @@ button{
 li{
   display:flex;
   justify-content:space-between;
-  background:#f4f4f4;
+  background:#fff9f9;
   padding:8px;
   margin-bottom:6px;
   border-radius:6px;
