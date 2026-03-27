@@ -1,6 +1,6 @@
 body{
   font-family: Arial;
-  background:#a4b6ce;
+  background:#879cb8;
   display:flex;
   justify-content:center;
   align-items:center;
@@ -8,7 +8,7 @@ body{
 }
 
 .container{
-  background:rgb(17, 129, 185);
+  background:rgb(255, 255, 255);
   padding:20px;
   border-radius:10px;
   width:300px;
@@ -28,11 +28,11 @@ input{
   flex:1;
   padding:8px;
   border-radius:6px;
-  border:1px solid #ccc;
+  border:1px solid #063cee;
 }
 
 button{
-  background:#5846e0;
+  background:#687dda;
   color:white;
   border:none;
   padding:8px 12px;
@@ -43,7 +43,7 @@ button{
 li{
   display:flex;
   justify-content:space-between;
-  background:#fff9f9;
+  background:#eeeeee;
   padding:8px;
   margin-bottom:6px;
   border-radius:6px;
@@ -56,4 +56,8 @@ li{
   border-radius:5px;
   cursor:pointer;
   padding:4px 8px;
+}
+
+.rojo{
+ background:#ec8282;
 }

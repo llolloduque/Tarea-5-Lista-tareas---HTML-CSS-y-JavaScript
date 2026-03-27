@@ -27,3 +27,6 @@ function agregarTarea(){
   
   entrada.value = "";
 }
+
+//el tema del js si que me eh ayudado en la ia porque lo hice antes de que dieras la clase de repaso y 
+//de la forma en la que esta se que hace cada cosa y se decirte que hace cada cosa lo unico que me cuesta aqui es sacar el como hacerlo de 0 yo 
